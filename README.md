@@ -45,8 +45,7 @@ Data was cleaned, transformed, and modeled to extract meaningful KPIs and trends
 
 ## 📷 Dashboard Preview  
 
-> *(Add your Power BI dashboard screenshot here)*  
-> Example:  
+ 
 > ![Sales Dashboard](sales_dashboard_preview.png)
 
 ---
@@ -72,7 +71,7 @@ Data was cleaned, transformed, and modeled to extract meaningful KPIs and trends
 
 ## 📂 Files Included  
 
-- `Sales_Dashboard.pbix` → Power BI dashboard file  
+- `Sales_Report.pbix` → Power BI dashboard file  
 - `README.md` → Project overview and documentation  
 
 ---

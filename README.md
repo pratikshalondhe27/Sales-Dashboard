@@ -41,14 +41,7 @@ Data was cleaned, transformed, and modeled to extract meaningful KPIs and trends
 4. **Dashboard Design:** Created visuals for KPIs, trends, and regional analysis.  
 5. **Publishing:** Published and shared using **Power BI Service** for real-time access.  
 
----
 
-## 📷 Dashboard Preview  
-
- 
-> ![Sales Dashboard](sales_dashboard_preview.png)
-
----
 
 ## 📚 Key Metrics  
 

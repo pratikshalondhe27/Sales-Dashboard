@@ -72,8 +72,8 @@ Data was cleaned, transformed, and modeled to extract meaningful KPIs and trends
 ## 👩‍💻 Developed by  
 **Pratiksha Londhe**  
 💼 RPA Developer | Data Analyst | Power BI Enthusiast  
-📧 [pratikshalondhe227@gmail.com](mailto:pratikshalondhe227@gmail.com)  
-🌐 [linkedin.com/in/pratiksha-londhe](https://linkedin.com/in/pratiksha-londhe)
+📧 [Gmail](mailto:pratikshalondhe227@gmail.com)  
+🌐 [linkedin](https://www.linkedin.com/in/pratiksha-londhe-ab5a69391/)
 
 ---
 
